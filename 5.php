@@ -1,4 +1,4 @@
-[2:14 pm, 17/02/2023] +91 87676 56889: <?php
+<?php
 include('connection.php');
 echo $iduser = $_GET['iduser'];
 if(isset($POST['delete'.$iduser])){
